@@ -1,8 +1,0 @@
-
-`
-java:S3740!"/Provide the parametrized type for this generic.(îäÙÉøÿÿÿÿH™GRMAJORZ
-CODE_SMELL
-r
-java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ºÌäHšGRCRITICALZVULNERABILITY
-w
-java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(ÏÑ§„ûÿÿÿÿH›GRCRITICALZVULNERABILITY

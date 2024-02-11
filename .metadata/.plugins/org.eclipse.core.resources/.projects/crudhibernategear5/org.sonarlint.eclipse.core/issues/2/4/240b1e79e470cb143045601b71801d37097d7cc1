@@ -1,15 +1,0 @@
-
-q
-java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(¼çãäüÿÿÿÿH‚~RBLOCKERZBUG
-n
-java:S1854"6Remove this useless assignment to local variable "tx".(´ü¶ëûÿÿÿÿ8öç”–¬1Hƒ~RMAJORZ
-CODE_SMELL
-_
-java:S1481"'Remove this unused "tx" local variable.(´ü¶ëûÿÿÿÿ8öç”–¬1H„~RMINORZ
-CODE_SMELL
-c
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ý®ØýÃ1H†~RMINORZ
-CODE_SMELL
-}
-java:S1128"ERemove this unused import 'javax.persistence.criteria.CriteriaQuery'.(ýÞŽ§ÿÿÿÿÿ8Ý®ØýÃ1Hˆ~RMINORZ
-CODE_SMELL

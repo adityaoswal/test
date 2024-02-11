@@ -1,18 +1,0 @@
-
-s
-java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8·˜ŸŠ´1H¼ZRBLOCKERZBUG
-k	java:S106("9Replace this use of System.out or System.err by a logger.(ãªÓŞ8·˜ŸŠ´1H½ZRMAJORZ
-CODE_SMELL
-y
-java:S1128
-"GRemove this unused import 'javax.persistence.criteria.CriteriaBuilder'.(É¿F8·˜ŸŠ´1H¾ZRMINORZ
-CODE_SMELL
-}
-java:S1128"ERemove this unused import 'javax.persistence.criteria.CriteriaQuery'.(ıŞ§ÿÿÿÿÿ8·˜ŸŠ´1HÀZRMINORZ
-CODE_SMELL
-y
-java:S1128"FRemove this unused import 'javax.persistence.criteria.CriteriaUpdate'.(é¾ùÂ8·˜ŸŠ´1HÂZRMINORZ
-CODE_SMELL
-o
-java:S1128"<Remove this unused import 'javax.persistence.criteria.Root'.(ùÆšğ8·˜ŸŠ´1HÄZRMINORZ
-CODE_SMELL

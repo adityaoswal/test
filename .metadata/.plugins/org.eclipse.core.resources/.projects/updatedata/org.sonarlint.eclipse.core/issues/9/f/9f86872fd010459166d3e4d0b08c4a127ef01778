@@ -1,14 +1,0 @@
-
-l
-java:S2095&"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁHÚRBLOCKERZBUG
-
-java:S1488("\Immediately return this expression instead of assigning it to the temporary variable "list".(ã÷Ø”8¨øº“›1HİRMINORZ
-CODE_SMELL
-s
-java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8¨øº“›1HàRBLOCKERZBUG
-^
-java:S11680"+Return an empty collection instead of null.(¥¹ï8¨øº“›1HáRMAJORZ
-CODE_SMELL
-i
-java:S1135/"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¨øº“›1HäRINFOZ
-CODE_SMELL

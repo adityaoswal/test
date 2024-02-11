@@ -1,17 +1,0 @@
-
-b
-java:S3740&"/Provide the parametrized type for this generic.(¸ô·®8²À²²Ÿ1HÏxRMAJORZ
-CODE_SMELL
-~
-java:S4684["@Replace this persistent entity with a simple POJO or DTO object.(Áİõºÿÿÿÿÿ8²À²²Ÿ1HĞxRCRITICALZVULNERABILITY
-b
-java:S3740`"/Provide the parametrized type for this generic.(¸ô·®8’é–³Ÿ1HÑxRMAJORZ
-CODE_SMELL
-~
-java:S1192*"HDefine a constant instead of duplicating this literal "success" 3 times.(ùØ8²À²²Ÿ1HÒxRCRITICALZ
-CODE_SMELL
-~
-java:S46846"@Replace this persistent entity with a simple POJO or DTO object.(ÊÅ†üÿÿÿÿ8²À²²Ÿ1HÖxRCRITICALZVULNERABILITY
-b
-java:S3740F"/Provide the parametrized type for this generic.(¸ô·®8²À²²Ÿ1H×xRMAJORZ
-CODE_SMELL
