@@ -1,0 +1,66 @@
+package collect;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		
+	Map<Integer, List<Employee>> map = new HashMap<>();
+	
+	List<Employee> emp = new ArrayList<>();
+	
+	emp.add(new Employee(1, "aditya", "pune"));
+	
+	emp.add(new Employee(2, "popo", "nagpur"));
+	
+	List<Employee> emp1 = new ArrayList<>();
+	
+	emp1.add(new Employee(3, "sakshi", "amravati"));
+	
+	map.put(1, emp);
+	map.put(2, emp1);
+	
+		
+	
+	for(Integer a : map.keySet())
+	{
+		
+		System.out.println(a);
+		
+		for(Employee e : map.get(a))
+		{
+			
+			System.out.println(e.getEid());
+			System.out.println(e.getEname());
+			System.out.println(e.getAddr());
+		}
+	}
+	
+	
+	
+
+    		
+    	}
+    	
+    
+
+    
+   
+	
+	
+		
+		
+		
+		
+		
+	
+		
+		
+	}
+	
+

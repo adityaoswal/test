@@ -1,0 +1,14 @@
+package mixofprimeandreverse;
+
+import java.util.Comparator;
+ public class Employee extends Exception {
+
+public Employee (String msg)
+{
+	super(msg);
+}
+
+
+
+	
+}

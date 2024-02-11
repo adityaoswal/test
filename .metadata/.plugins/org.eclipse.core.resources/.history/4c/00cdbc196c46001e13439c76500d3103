@@ -1,0 +1,31 @@
+package patternpractice;
+import java.util.*;
+import java.util.Arrays;
+import java.util.Map.Entry;
+import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.stream.Stream;
+import java.util.*;
+public class Pattern {
+
+	public static void main(String[] args) {
+
+	Scanner sc = new Scanner(System.in);
+	
+		System.out.println("enter the number");
+		int x = sc.nextInt();
+		
+		int b =1;
+		int a = 0;
+		
+		for(int i =0;i<x;i++)
+		{
+			
+			a= 
+			
+			
+		}
+		
+	}
+	
+	
+}

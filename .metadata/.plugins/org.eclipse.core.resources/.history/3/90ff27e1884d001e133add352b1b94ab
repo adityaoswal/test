@@ -1,0 +1,43 @@
+package patternpractice;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+
+
+
+
+
+public class Pattern {
+
+	public static void main(String[] args) {
+
+
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			 
+			
+				Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "root");
+			
+				String s = "delete from employee where empid = 88";
+		
+				Statement st = con.createStatement();
+				
+				st.execute(s);
+				
+				con.close();
+			
+		} catch (ClassNotFoundException e) {
+            e.printStackTrace();
+            System.err.println("MySQL JDBC driver not found.");
+        } catch (SQLException e) {
+            e.printStackTrace();
+            System.err.println("Error connecting to the database.");
+        }
+	}
+	
+	
+}

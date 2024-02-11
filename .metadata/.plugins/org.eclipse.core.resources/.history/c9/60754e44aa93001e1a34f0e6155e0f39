@@ -1,0 +1,45 @@
+package collect;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class Test {
+	
+	
+    public static void main(String[] args) {
+		
+//    	List<Employee> emp = Arrays.asList(new Employee(1, "aditya", "pune"), new Employee(2, "harsh", "Mumbai"), new Employee(3, "kajol", "nagpur"));
+//    	
+//    	List<Employee> s = emp.stream().sorted()
+    	
+    
+    	
+    	List<String> l = Arrays.asList("congress","bjp","jdu");
+    	
+    	//char[] b= a.toCharArray();
+    	
+    	l.stream().forEach(n -> System.out.println(n));
+    	
+	}
+   
+   
+    	}
+    	
+    
+
+    
+   
+	
+	
+		
+		
+		
+		
+		
+	
+		
+		
+	
+	
+

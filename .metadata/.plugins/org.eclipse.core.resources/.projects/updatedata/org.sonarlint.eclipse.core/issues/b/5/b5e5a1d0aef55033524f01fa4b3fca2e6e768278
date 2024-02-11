@@ -1,0 +1,8 @@
+
+w
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(æÓ…¡ùÿÿÿÿH£RCRITICALZVULNERABILITY
+~
+java:S11923"HDefine a constant instead of duplicating this literal "success" 4 times.(ùØ8‰Üª‡›1H²RCRITICALZ
+CODE_SMELL
+~
+java:S4684H"@Replace this persistent entity with a simple POJO or DTO object.(àƒ¢ıÿÿÿÿ8·–ù’›1HÀRCRITICALZVULNERABILITY

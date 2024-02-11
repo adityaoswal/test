@@ -1,0 +1,10 @@
+#Tomcat publish data
+#Wed Oct 11 08:30:42 IST 2023
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\springmvcgear6\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\springmvcgear5\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\updatedata\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\dildo\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\springmvcgear5\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\dildo\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\springmvcgear6\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\ecplise_real_practice\\updatedata\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE-sources.jar

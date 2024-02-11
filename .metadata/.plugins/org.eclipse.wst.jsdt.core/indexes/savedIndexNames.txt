@@ -1,0 +1,26 @@
+INDEX VERSION 1.4+D:\ecplise_real_practice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1761311589.index
+1274164464.index
+1334556522.index
+2101600261.index
+1999275174.index
+3573678186.index
+2728713431.index
+3435648363.index
+1084035290.index
+2056631609.index
+598783366.index
+1161348654.index
+3650371936.index
+379387795.index
+3744296110.index
+3826413929.index
+3858047670.index
+335211976.index
+3508113891.index
+933844176.index
+1228817120.index
+3444965763.index
+100442048.index
+3629817893.index
+3539690826.index

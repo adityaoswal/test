@@ -1,0 +1,29 @@
+package mixofprimeandreverse;
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+
+	int x [] = {1,2,3};
+	
+	try {
+		
+		int res = x[4];
+		
+		System.out.println(res);
+		
+	}
+		catch(ArrayIndexOutOfBoundsException e)
+		{
+			
+			System.out.println(e.getMessage());
+			
+		}
+		
+	}
+	
+	
+}

@@ -1,0 +1,41 @@
+package mixofprimeandreverse;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+
+		List<Employee>  list = new ArrayList<>();
+	    Employee e = new Employee();
+	    e.setEid(3);
+	    e.setName("zditya");
+	    e.setAddress("nagpur");
+	    
+	    list.add(e);
+	    
+	    Employee e1 = new Employee();
+	    e1.setEid(2);
+	    e1.setName("yash");
+	    e1.setAddress("mumbai");
+	    
+	    list.add(e1);
+	    
+	    Collections.sort(list);
+	    
+	    for(Employee q :list)
+	    {
+	    	System.out.println(q.getEid()+" "+q.getName()+" "+q.getAddress());
+	    }
+	    
+	
+		
+		
+	
+	
+	
+}}

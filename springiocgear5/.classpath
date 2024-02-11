@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-aspects-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-context-indexer-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-context-support-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-instrument-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/spring-framework-5.0.5.RELEASE-dist/spring-framework-5.0.5.RELEASE/ioc_jar/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

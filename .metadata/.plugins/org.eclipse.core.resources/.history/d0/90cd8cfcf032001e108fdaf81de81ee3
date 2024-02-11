@@ -1,0 +1,10 @@
+package com.example.demo.model;
+
+public class Passenger {
+
+	
+	private int pid;
+	private String pname;
+	private String paddress;
+	
+}

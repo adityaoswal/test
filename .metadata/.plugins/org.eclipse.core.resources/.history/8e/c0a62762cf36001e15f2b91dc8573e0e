@@ -1,0 +1,24 @@
+package patternpractice;
+
+public class Pattern {
+
+	
+	public static void main(String[] args) {
+
+		
+	
+		int x=10;
+		int y = 15;
+		
+		System.out.println("original values"+x +""+y);
+		
+		x = x+y;
+		y= x-y;
+		x=x-y;
+		
+		
+		System.out.println("after swaping value"+x+""+y);
+		
+		
+	}
+}

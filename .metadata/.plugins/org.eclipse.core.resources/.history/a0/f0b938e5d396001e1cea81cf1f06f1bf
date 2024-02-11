@@ -1,0 +1,17 @@
+package com.example.demo.serviceimpl;
+
+import org.springframework.stereotype.Service;
+
+import com.example.demo.model.Employee;
+import com.example.demo.service.HomeService;
+
+@Service
+public class HomeServiceImpl implements HomeService {
+
+	@Override
+	public Employee sav(Employee e) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

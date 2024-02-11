@@ -1,0 +1,42 @@
+package com.main;
+
+import java.util.List;
+
+import javax.persistence.criteria.CriteriaBuilder;
+import javax.persistence.criteria.CriteriaDelete;
+import javax.persistence.criteria.Root;
+
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import org.hibernate.query.Query;
+
+import com.config.hibernateutil;
+import com.entity.Person;
+
+public class Test {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		Session session = hibernateutil.getsessionfactory().openSession();
+		
+		Transaction tx = session.beginTransaction();
+		
+		String sql = " update Person set pname =? where pid =?";
+		
+		Query<Person> querry = session.createQuery(sql);
+		
+		querry.setString(1, "popo");
+		
+		querry.setInteger(2, 1);
+		
+		querry.executeUpdate();
+		
+		System.out.println("updated");
+		
+		
+	}
+	
+}

@@ -1,0 +1,32 @@
+
+s
+java:S2095,"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8“é–³Ÿ1H™zRBLOCKERZBUG
+Œ
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "l".(ÆÙÓæ8“é–³Ÿ1HšzRMINORZ
+CODE_SMELL
+s
+java:S2095""EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8“é–³Ÿ1HzRBLOCKERZBUG
+i
+java:S11356"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8“é–³Ÿ1HzRINFOZ
+CODE_SMELL
+i
+java:S1135+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8“é–³Ÿ1HŸzRINFOZ
+CODE_SMELL
+i
+java:S1135@"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8“é–³Ÿ1H zRINFOZ
+CODE_SMELL
+s
+java:S2095A"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8“é–³Ÿ1H¡zRBLOCKERZBUG
+s
+java:S20957"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8éÙ³Ÿ1H¢zRBLOCKERZBUG
+‘
+java:S1488:"YImmediately return this expression instead of assigning it to the temporary variable "e".(‰Š¥ıÿÿÿÿ8¾õ©´Ÿ1H£zRMINORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ÆÙÓæ8“é–³Ÿ1H¦zRMAJORZ
+CODE_SMELL
+i
+java:S1135!"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8“é–³Ÿ1H§zRINFOZ
+CODE_SMELL
+s
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(ÿÌéÁ8“é–³Ÿ1H¨zRBLOCKERZBUG

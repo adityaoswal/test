@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="produce_micro_makemy">
+        <property name="context-root" value="produce_micro_makemy"/>
+        <property name="java-output-path" value="/produce_micro_makemy/target/classes"/>
+    </wb-module>
+</project-modules>

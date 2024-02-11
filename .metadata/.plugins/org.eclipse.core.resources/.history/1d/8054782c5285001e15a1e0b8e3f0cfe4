@@ -1,0 +1,72 @@
+package collect;
+
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+import java.util.Set;
+import java.util.stream.Stream;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		
+
+
+
+   String filepath = "D:\\FILE_Read_write_Java\\beba.txt";
+   
+   Path path = Paths.get(filepath);
+   
+   try
+   {
+	   
+	   List<String> data = Files.readAllLines(path);
+	   
+	   
+	   data.remove("aditya");
+	   
+	   System.out.println("data removed");
+	   
+	   
+	   Files.write(path, data, StandardOpenOption.APPEND);
+	   
+	   
+   }
+   
+   
+   catch (Exception e) {
+	// TODO: handle exception
+}
+   
+
+    
+   
+   
+    	}
+    	
+    
+
+    
+   
+	
+	
+		
+		
+		
+		
+		
+	
+		
+		
+	}
+	
+

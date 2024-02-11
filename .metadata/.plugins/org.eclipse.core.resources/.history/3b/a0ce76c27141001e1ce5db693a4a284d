@@ -1,0 +1,38 @@
+package mixofprimeandreverse;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
+
+
+
+public class Test {
+	
+	int x =10;
+	int y =0;
+	
+	
+	public void m1() throws Employee
+	{
+	
+		int res = x/y;
+		throw new Employee("cannnnn");
+	}
+
+	public static void main(String[] args) {
+		
+		Test t = new Test();
+		
+		
+   try {
+	t.m1();
+} catch (Employee e) {
+	// TODO Auto-generated catch block
+	e.printStackTrace();
+}
+
+	
+	
+	
+}}

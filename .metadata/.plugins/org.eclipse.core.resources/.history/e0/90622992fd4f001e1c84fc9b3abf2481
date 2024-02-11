@@ -1,0 +1,48 @@
+package patternpractice;
+
+
+
+
+
+
+import java.util.List;
+
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+
+
+
+public class Pattern {
+
+	public static void main(String[] args)  {
+
+
+  SessionFactory sf = new Configuration().configure("hibernate.cfg.xml").buildSessionFactory();
+  
+  Session session = sf.openSession();
+  
+  Query<Cust> query = session.createQuery("delete from Cust where cid = ?");
+  
+  query.setParameter(0, 2);
+  
+  System.out.println("data deleted successfully");
+  
+  session.beginTransaction().commit();
+   
+  
+
+	
+	
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+}

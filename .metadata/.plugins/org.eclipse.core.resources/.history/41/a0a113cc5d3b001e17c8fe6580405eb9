@@ -1,0 +1,32 @@
+package com.main;
+
+import javax.persistence.criteria.CriteriaBuilder;
+import javax.persistence.criteria.CriteriaDelete;
+import javax.persistence.criteria.Root;
+
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
+import com.config.hibernateutil;
+import com.entity.Person;
+
+public class Test {
+
+	
+	public static void main(String[] args) {
+		
+		
+		Session session = hibernateutil.getsessionfactory().openSession();
+		
+		Transaction tx = session.beginTransaction();
+		
+		CriteriaBuilder cb = session.getCriteriaBuilder();
+		
+		CriteriaDelete<Person> cd = cb.createCriteriaDelete(Person.class);
+		
+		Root<Person> rper = cd.from(Person.class);
+		
+		
+	}
+	
+}

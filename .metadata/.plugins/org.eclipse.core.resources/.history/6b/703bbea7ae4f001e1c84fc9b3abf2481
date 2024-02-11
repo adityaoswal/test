@@ -1,0 +1,44 @@
+package patternpractice;
+
+import java.sql.CallableStatement;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class Pattern {
+
+	public static void main(String[] args)  {
+
+
+    SessionFactory sf = new Configuration().configure("hibernate.cfg.xml").buildSessionFactory();
+    
+    Session session = sf.openSession();
+    
+    Cust c = new Cust();
+    
+    c.setCname("aditya");
+    c.setCaddr("nagpur");
+    
+    session.save(c);
+    
+    System.out.println("data saved successfully");
+    
+	
+	
+	
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+}
